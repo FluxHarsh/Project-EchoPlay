@@ -1,0 +1,370 @@
+{
+  "ncs": [
+    {
+      "name": "Blue Ribbons",
+      "artist": "TrackTribe",
+      "url": "/Songssss/Blue Ribbons - TrackTribe.mp3"
+    },
+    {
+      "name": "Decimate",
+      "artist": "Jeremy Blake",
+      "url": "/Songssss/Decimate - Jeremy Blake.mp3"
+    },
+    {
+      "name": "Final Girl",
+      "artist": "Jeremy Blake",
+      "url": "/Songssss/Final Girl - Jeremy Blake.mp3"
+    },
+    {
+      "name": "FIVE OF A KIND",
+      "artist": "Density & Time",
+      "url": "/Songssss/FIVE OF A KIND - Density & Time.mp3"
+    },
+    {
+      "name": "GTA Type Beat",
+      "artist": "Dyalla",
+      "url": "/Songssss/GTA Type Beat - Dyalla.mp3"
+    },
+    {
+      "name": "Not My First Rodeo",
+      "artist": "Dyalla",
+      "url": "/Songssss/Not My First Rodeo - Dyalla.mp3"
+    },
+    {
+      "name": "Blue Ribbons",
+      "artist": "TrackTribe",
+      "url": "/Songssss/Blue Ribbons - TrackTribe copy.mp3"
+    },
+    {
+      "name": "Decimate",
+      "artist": "Jeremy Blake",
+      "url": "/Songssss/Decimate - Jeremy Blake copy.mp3"
+    }
+  ],
+  "AP": [
+    {
+      "name": "Afsos",
+      "artist": "AP Dhillon",
+      "url": "/Songssss/Afsos - AP Dhillon.mp3"
+    },
+    {
+      "name": "Dil Nu ",
+      "artist": "AP Dhillon",
+      "url": "/Songssss/Dil Nu - AP Dhillon.mp3"
+    },
+    {
+      "name": "Excuses",
+      "artist": "AP Dhillon",
+      "url": "/Songssss/Excuses - AP Dhillon.mp3"
+    },
+    {
+      "name": "Old Money",
+      "artist": "AP Dhillon",
+      "url": "/Songssss/Old Money - AP Dhillon.mp3"
+    },
+    {
+      "name": "STFU",
+      "artist": "AP Dhillon",
+      "url": "/Songssss/STFU - AP Dhillon.mp3"
+    }
+  ],
+  "AS": [
+    {
+      "name": "Dhun",
+      "artist": "Arijit Singh",
+      "url": "/Songssss/Dhun - Arijit Singh.mp3"
+    },
+    {
+      "name": "Apna Bana Le",
+      "artist": "Arijit Singh",
+      "url": "/Songssss/Apna Bana Le - Arijit Singh.mp3"
+    },
+    {
+      "name": "Tum Hi Ho",
+      "artist": "Arijit Singh",
+      "url": "/Songssss/Tum Hi Ho - Arijit Singh.mp3"
+    },
+    {
+      "name": "Sajni",
+      "artist": "Arijit Singh",
+      "url": "/Songssss/Sajni - Arijit Singh.mp3"
+    },
+    {
+      "name": "Kasturi",
+      "artist": "Arijit Singh",
+      "url": "/Songssss/Kasturi - Arijit Singh.mp3"
+    }
+  ],
+  "ZM": [
+    {
+      "name": "PillowTalk",
+      "artist": "Zayn Malik",
+      "url": "/Songssss/PillowTalk - Zayn Malik.mp3"
+    },
+    {
+      "name": "Live Forever",
+      "artist": "Zayn Malik",
+      "url": "/Songssss/Live Forever - Zayn Malik.mp3"
+    },
+    {
+      "name": "Let Me",
+      "artist": "Zayn Malik",
+      "url": "/Songssss/Let Me - Zayn Malik.mp3"
+    }
+  ],
+  "HS": [
+    {
+      "name": "As it was",
+      "artist": "Harry Styles",
+      "url": "/Songssss/As it was - Harry Styles.mp3"
+    },
+    {
+      "name": "Falling",
+      "artist": "Harry Styles",
+      "url": "/Songssss/Falling - Harry Styles.mp3"
+    },
+    {
+      "name": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "url": "/Songssss/Watermelon Sugar - Harry Styles.mp3"
+    }
+  ],
+  "KA": [
+    {
+      "name": "Wavy",
+      "artist": "Karan Aujla",
+      "url": "/Songssss/Wavy - Karan Aujla.mp3"
+    },
+    {
+      "name": "52 Bars",
+      "artist": "Karan Aujla",
+      "url": "/Songssss/52 Bars - Karan Aujla.mp3"
+    },
+    {
+      "name": "Winning Speech",
+      "artist": "Karan Aujla",
+      "url": "/Songssss/Winning Speech - Karan Aujla.mp3"
+    }
+  ],
+  "BE": [
+    {
+      "name": "WildFlower",
+      "artist": "Billie Eilish",
+      "url": "/Songssss/WildFlower - Billie Eilish.mp3"
+    },
+    {
+      "name": "Lovely",
+      "artist": "Billie Eilish",
+      "url": "/Songssss/Lovely - Billie Eilish.mp3"
+    },
+    {
+      "name": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "url": "/Songssss/Birds of a Feather - Billie Eilish.mp3"
+    }
+  ],
+  "OD": [
+    {
+      "name": "Night Changes",
+      "artist": "One Direction",
+      "url": "/Songssss/Night Changes - One Direction.mp3"
+    },
+    {
+      "name": "Perfect",
+      "artist": "One Direction",
+      "url": "/Songssss/Perfect - One Direction.mp3"
+    },
+    {
+      "name": "Drag Me Down",
+      "artist": "One Direction",
+      "url": "/Songssss/Drag Me Down - One Direction.mp3"
+    }
+  ],
+  "TS": [
+    {
+      "name": "August",
+      "artist": "Taylor Swift",
+      "url": "/Songssss/August - Taylor Swift.mp3"
+    },
+    {
+      "name": "Style",
+      "artist": "Taylor Swift",
+      "url": "/Songssss/Style - Taylor Swift.mp3"
+    },
+    {
+      "name": "Cardigan",
+      "artist": "Taylor Swift",
+      "url": "/Songssss/Cardigan - Taylor Swift.mp3"
+    }
+  ],
+  "BM": [
+    {
+      "name": "APT",
+      "artist": "Bruno Mars",
+      "url": "/Songssss/APT - Bruno Mars.mp3"
+    },
+    {
+      "name": "Die with a smile",
+      "artist": "Bruno Mars",
+      "url": "/Songssss/Die with a smile - Bruno Mars.mp3"
+    },
+    {
+      "name": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "url": "/Songssss/Locked out of Heaven - Bruno Mars.mp3"
+    }
+  ],
+  "D": [
+    {
+      "name": "Nokia",
+      "artist": "Drake",
+      "url": "/Songssss/Nokia - Drake.mp3"
+    },
+    {
+      "name": "Passionfruit",
+      "artist": "Drake",
+      "url": "/Songssss/Passionfruit - Drake.mp3"
+    },
+    {
+      "name": "One Dance",
+      "artist": "Drake",
+      "url": "/Songssss/One Dance - Drake.mp3"
+    }
+  ],
+  "E": [
+    {
+      "name": "Mockingbird",
+      "artist": "Eminem",
+      "url": "/Songssss/Mockingbird - Eminem.mp3"
+    },
+    {
+      "name": "Without Me",
+      "artist": "Eminem",
+      "url": "/Songssss/Without Me - Eminem.mp3"
+    },
+    {
+      "name": "Lose Yourself",
+      "artist": "Eminem",
+      "url": "/Songssss/Lose Yourself - Eminem.mp3"
+    }
+  ],
+  "DD": [
+    {
+      "name": "Water",
+      "artist": "Diljit Dosanjh",
+      "url": "/Songssss/Water - Diljit Dosanjh.mp3"
+    },
+    {
+      "name": "Naina",
+      "artist": "Diljit Dosanjh",
+      "url": "/Songssss/Naina - Diljit Dosanjh.mp3"
+    },
+    {
+      "name": "Kinni Kinni",
+      "artist": "Diljit Dosanjh",
+      "url": "/Songssss/Kinni Kinni - Diljit Dosanjh.mp3"
+    }
+  ],
+  "JB": [
+    {
+      "name": "Baby",
+      "artist": "Justin Bieber",
+      "url": "/Songssss/Baby - Justin Bieber.mp3"
+    },
+    {
+      "name": "Go Baby",
+      "artist": "Justin Bieber",
+      "url": "/Songssss/Go Baby - Justin Bieber.mp3"
+    },
+    {
+      "name": "Yukon",
+      "artist": "Justin Bieber",
+      "url": "/Songssss/Yukon - Justin Bieber.mp3"
+    }
+  ],
+  "HSH": [
+    {
+      "name": "Desi Kalakar",
+      "artist": "Honey Singh",
+      "url": "/Songssss/Desi Kalakar - Honey Singh.mp3"
+    },
+    {
+      "name": "Millioniare",
+      "artist": "Honey Singh",
+      "url": "/Songssss/Millionaire- Honey Singh.mp3"
+    },
+    {
+      "name": "Brown Rang",
+      "artist": "Honey Singh",
+      "url": "/Songssss/Brown Rang - Honey Singh.mp3"
+    }
+  ],
+  "SH": [
+    {
+      "name": "Cheques",
+      "artist": "Shubh",
+      "url": "/Songssss/Cheques - Shubh.mp3"
+    },
+    {
+      "name": "One Love",
+      "artist": "Shubh",
+      "url": "/Songssss/One Love - Shubh.mp3"
+    },
+    {
+      "name": "Supreme",
+      "artist": "Shubh",
+      "url": "/Songssss/Supreme - Shubh.mp3"
+    }
+  ],
+  "PM": [
+    {
+      "name": "Circles",
+      "artist": "Post Malone",
+      "url": "/Songssss/Circles - Post Malone.mp3"
+    },
+    {
+      "name": "Sunflower",
+      "artist": "Post Malone",
+      "url": "/Songssss/Sunflower - Post Malone.mp3"
+    },
+    {
+      "name": "Fortnight",
+      "artist": "Post Malone",
+      "url": "/Songssss/Fortnight - Post Malone.mp3"
+    }
+  ],
+  "TW": [
+    {
+      "name": "Starboy",
+      "artist": "The Weeknd",
+      "url": "/Songssss/Starboy - The Weeknd.mp3"
+    },
+    {
+      "name": "Binding Lights",
+      "artist": "The Weeknd",
+      "url": "/Songssss/Binding Lights - The Weeknd.mp3"
+    },
+    {
+      "name": "Timeless",
+      "artist": "The Weeknd",
+      "url": "/Songssss/Timeless - The Weeknd.mp3"
+    }
+  ],
+  "TST": [
+    {
+      "name": "Fein",
+      "artist": "Travis Scott",
+      "url": "/Songssss/Fein - Travis Scott.mp3"
+    },
+    {
+      "name": "Kick Out",
+      "artist": "Travis Scott",
+      "url": "/Songssss/Kick Out - Travis Scott.mp3"
+    },
+    {
+      "name": "Goosebumps",
+      "artist": "Travis Scott",
+      "url": "/Songssss/Goosebumps - Travis Scott.mp3"
+    }
+  ]
+}
