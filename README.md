@@ -31,7 +31,8 @@ EchoPlay is a sleek and responsive **web-based music player** that lets users pl
 
 
 
-🔗 **Live Demo**: [https://project-echoplay.vercel.app/](#)
+🔗 **Live Demo**: https://project-echoplay.vercel.app/
+
 
 ---
 
